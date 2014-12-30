@@ -1,5 +1,5 @@
 {
-    "name": "jms/serializer",
+    "name": "zeedhi-inc/serializer",
     "type": "library",
     "description": "Library for (de-)serializing data of any complexity; supports XML, JSON, and YAML.",
     "keywords": ["serialization", "deserialization", "json", "jaxb", "xml"],
@@ -9,6 +9,10 @@
         {
             "name": "Johannes M. Schmitt",
             "email": "schmittjoh@gmail.com"
+        },
+        {
+            "name": "Zeedhi Developer",
+            "email": "developer@zeedhi.com"
         }
     ],
     "require": {
@@ -42,7 +46,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "0.17-dev"
+            "dev-master": "0.15-dev"
         }
     }
 }
